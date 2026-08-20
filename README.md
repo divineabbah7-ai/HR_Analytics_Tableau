@@ -115,7 +115,7 @@ Source: **Employee Attrition Dataset** (Microsoft Excel) — **40 fields, 1,485 
 
 ## 🔗 Live Dashboard
 
-**[👉 View the interactive dashboard on Tableau Public]()**
+**[👉 View the interactive dashboard on Tableau Public](https://public.tableau.com/views/AttritionDashboard_17869967929700/AnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)**
 
 > Fully interactive — hover over any visual for detailed tooltips, and use filters to explore attrition patterns by department, role, or demographic.
 
